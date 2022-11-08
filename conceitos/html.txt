@@ -1,0 +1,3 @@
+HTML significa HyperText Markup Language
+
+-> Não é uma linguagem de programação, porém tem sua semântica e sintaxe.
